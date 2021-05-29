@@ -1,1 +1,1 @@
-# electron-dancing
+# electron-dancing-frontend
